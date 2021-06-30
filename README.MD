@@ -14,7 +14,7 @@ npx asinit .
 npm run asbuild - compiles the files  
 
 ## Debugging
-To debug, the easiest way is just to run a http server locally:
-npm install http-server -g
-http-server ./
-open localhost in chrome
+To debug, the easiest way is just to run a http server locally:  
+npm install http-server -g  
+http-server ./  
+open localhost in chromium  
